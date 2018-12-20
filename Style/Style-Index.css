@@ -1,0 +1,101 @@
+			#Log-nav
+			{
+				width: 70px;
+				height: 70px;
+				margin-right: 25px;
+			}
+			a
+			{
+				margin-right: 10px;
+			}
+			h1
+			{
+				margin-right: 10px;
+			}
+			.center-text
+			{
+				text-align: center
+			}
+			.center
+			{
+				justify-content:center
+			}
+			.center-img
+			{
+				display: block; margin: auto;
+			}
+			#btn-suscrip
+			{
+				background-color: #ABC896;
+				border-color: #CED4DA;
+				border-bottom-left-radius: 0px;
+				border-top-left-radius: 0px;
+				border-left: none;
+			}
+			.img-fun
+			{
+				width: 200px;
+				height: 200px;
+				border-radius: 50%;
+				justify-content:center;
+				float: left;
+				margin-bottom: 50px;
+			}
+			.text-img
+			{
+				padding-top: 50px;
+			}
+			.Cards-per1
+			{
+				border-color: ##777777;
+				border-radius: 10px;
+				background-color:#E9ECEF;
+				border-style: solid;
+				border-width: 1px;
+				margin-bottom: 10px;
+			}
+			.jumbo-prin
+			{
+				background-color: #C19CA2;margin-top: 70px;
+			}
+			.text-cards-per1
+			{
+				margin-top: 5px;
+			}
+			.card-img-per
+			{
+				margin-top: 5px;
+				border-radius: 10px;
+			}
+			.a-desain
+			{
+				color: #FFFFFF;
+				font-size: 150%;
+			}
+			.link-icon
+			{
+				margin-right: 5px;
+				margin-bottom: 6px;
+			}
+			.web-icons
+			{
+				width: 50px;
+				height: 50px;
+				margin-right: 5px;
+			}
+			.div-foot
+			{
+				margin: 10px auto;
+			}
+			.footpage
+			{
+				background:#A7D19B;margin-top: 10px;
+			}
+			body
+			{
+				position: relative
+			}
+			.fix
+			{
+				margin-top: 100px;
+			}
